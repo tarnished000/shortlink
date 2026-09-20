@@ -78,8 +78,7 @@ Python · FastAPI · SQLAlchemy · PostgreSQL · Docker · Docker Compose · Ngi
 
 ## Статус
 
-Рабочий MVP: основные эндпоинты покрыты тестами, есть healthcheck и CI. Дальше можно развивать: rate limiting, TTL для ссылок, деплой через Kubernetes/Helm — как часть учебного пути в [devops-lab](https://github.com/tarnished000/devops-lab).
+Рабочий MVP: основные эндпоинты покрыты тестами, есть healthcheck и CI. Дальше можно развивать: rate limiting, TTL для ссылок, деплой через Kubernetes/Helm.
 
 ---
 
-Написан с помощью ИИ-ассистента (по аналогии с [Femida](https://github.com/tarnished000/femida)); использую его, чтобы разобрать реальный пример Docker + CI/CD на практике.
